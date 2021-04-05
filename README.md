@@ -12,4 +12,9 @@ Copy & paste to header section of your HTML
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/subcre8r/tailwind/css-dist/tailwind.min.css">
 ```
 
+## If you decide to modify, don't forget to
+```bash
+npm run build
+```
+
 # Maranatha!
