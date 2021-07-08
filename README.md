@@ -16,7 +16,7 @@ Feel free to use, fork, whatevs!
 Copy & paste to header section of your HTML
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/subcre8r/tailwind/css-dist/tailwind.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/subcre8r/tailwind@bootstrap-3/css-dist/tailwind.min.css">
 ```
 
 # If you want to test it out locally
