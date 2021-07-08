@@ -4,7 +4,12 @@ This is subcre8r's tailwind settings that we use in a lot of our projects.
 
 Feel free to use, fork, whatevs!
 
-**This branch is used for mixing with bootstrap 3**
+# Bootstrap Branch
+
+- This branch is used for mixing with bootstrap 3  
+- Note that this excludes the base and components
+- Also the classes have a tw- prefix
+
 
 ## Installation
 

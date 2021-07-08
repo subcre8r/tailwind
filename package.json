@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx tailwindcss-cli@latest build ./tailwind.css -o ./dist/tailwind.css && css-minify -f dist/tailwind.css"
+    "build": "npx tailwindcss -i ./tailwind.css -o ./dist/tailwind.css && css-minify -f dist/tailwind.css"
   },
   "dependencies": {
     "css-minify": "^1.1.0"
