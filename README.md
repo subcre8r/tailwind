@@ -4,6 +4,8 @@ This is subcre8r's tailwind settings that we use in a lot of our projects.
 
 Feel free to use, fork, whatevs!
 
+**This branch is used for mixing with bootstrap 3**
+
 ## Installation
 
 Copy & paste to header section of your HTML
